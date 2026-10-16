@@ -1,0 +1,7 @@
+STUDENT MANAGEMENT APPLICATION
+1. Name: K. Srikar
+Roll Number: 2400030336
+Department: CSE
+2. Name: U. Koushik
+Roll Number: 2400030691
+Department: CSE
